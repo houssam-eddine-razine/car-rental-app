@@ -1,24 +1,25 @@
 # car-rental-app
-This is a desktop application built using Python and PyQt5 framework that helps manage renting cars. The app has graphical user interfaces (GUIs) for different functionalities:
-
-Add/delet or edit cars iformations: admin can see thae cars he have .
-renting Management: admin can add, delete, a car from the rented cars table.
-categories-car transmistion - car carburant : Admin can add, delete, and update those tree using the app.
-the application can be use by admin wich have an admin dasehboard or regular empolyee's 
+This is a desktop application built using Python and PyQt5 wich allows developers to create desktop applications in Python by providing access to the Qt library. The app has graphical user interfaces (GUIs) for different functionalities:  
+  
+Add/delet or edit cars iformations: admin can see manage cars he own.  
+renting Management: admin can add, delete, a car from the rented cars table.  
+categories -car transmistion - car carburant : Admin can add, delete or update those tree using the app.  
+the application can be used by admin wich have an admin dasehboard or regular empolyee's   
 
 
 # Conception
 
 
 
--------use case diagram
+-------use case diagram  
 
 
-![DcasU](https://user-images.githubusercontent.com/96617539/236576843-d1a0df4e-b0d8-4ebd-9185-feff16789c32.PNG)
+![Pcas](https://github.com/houssam-eddine-razine/car-rental-app/assets/96617539/8425b1d1-3720-41ed-9bcc-b7309153d4f0)
 
 
 
------ class diagram
+
+----- class diagram  
 
 
 ![DclasseR](https://user-images.githubusercontent.com/96617539/236576729-39e901bc-ad94-45a8-9ea0-16af5b4d34a4.PNG)
